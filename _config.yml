@@ -1,0 +1,13 @@
+# Site settings
+title: ddbullfrog
+email: dongg.liang@gmail.com
+description: 现实像块石头,精神像个蛋,石头虽然坚硬,可蛋里才是生命
+
+github_username:  ddbullfrog
+
+permalink: /:title/
+
+paginate: 10
+paginate_path: "page:num"
+
+markdown: kramdown
